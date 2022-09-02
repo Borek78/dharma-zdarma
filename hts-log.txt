@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Sep 2022 14:30:54 at http://www.dharmazdarma.cz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.dharmazdarma.cz/ -O1 "C:\DZ web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:31:03	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/napsali-nam.html (from www.dharmazdarma.cz/stary-web.php)
+14:31:14	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/Otevrene dopisy/distributor-pro-misto.pdf (from www.dharmazdarma.cz/stary-web.php)
+14:31:14	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/statistiky.html (from www.dharmazdarma.cz/stary-web.php)
+14:31:15	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/Guestbooks/Ikony/desature.png (from www.dharmazdarma.cz/knihovna.php)
+14:31:15	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/statistiky.php (from www.dharmazdarma.cz/knihovna.php)
+14:33:36	Warning: 	Retry after error -4 (No data (connection closed)) at link www.dharmazdarma.cz/Umeni/maly-buddha-na-dlani.jpg (from www.dharmazdarma.cz/knihovna-umeni.php)
+14:33:36	Warning: 	Retry after error -4 (No data (connection closed)) at link www.dharmazdarma.cz/Umeni/buddha-na-velrybe.jpg (from www.dharmazdarma.cz/knihovna-umeni.php)
+14:33:36	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/Umeni/maly-buddha-s-miminkem.jpg (from www.dharmazdarma.cz/knihovna-umeni.php)
+14:33:36	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/Umeni/maly-dva-buddhove.jpg (from www.dharmazdarma.cz/knihovna-umeni.php)
+14:33:36	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/www.rodinnekonstelace.eu (from www.dharmazdarma.cz/napsali-nam.php)
+14:33:36	Error: 	"Not Found" (404) at link www.dharmazdarma.cz/Texty/jestevtomtozivote.pdf (from www.dharmazdarma.cz/zadnipolicka.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 0 seconds : 42 links scanned, 30 files written (5988837 bytes overall) [5873462 bytes received at 24472 bytes/sec], 5952284 bytes transferred using HTTP compression in 39 files, ratio 97%, 4.2 requests per connection
+(9 errors, 2 warnings, 0 messages)
